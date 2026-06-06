@@ -1,8 +1,8 @@
 const experiences = [
   {
-    period: "SEPT-2025 — Present",
+    period: "NOV-2025 — Present",
     role: "Java Full Stack",
-    company: "Qspider Tech.",
+    company: "Cloudspark Technologies.",
     description:
       "Aspiring Java Full Stack Developer building modern  web applications using React, Java, and SQL.",
     technologies: ["WebTech", "Reactjs", "SQL", "JAVA"],
