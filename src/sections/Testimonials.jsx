@@ -6,14 +6,14 @@ const testimonials = [
     quote:
       "Karthick is a motivated and enthusiastic individual with strong communication skills and a positive attitude toward learning. He demonstrates dedication in improving his technical knowledge and works well with others in a team environment.",
     author: "HR Divakar",
-    role: "Qspider Software training institute in Coimbatore, Tamil Nadu",
+    role: " Coimbatore, Tamil Nadu",
     avatar:"/Trainers/Divakar_sir.jpg",
   },
   {
     quote:
       "Karthick is a passionate learner who has shown excellent dedication while studying Java and full stack technologies. He has good logical thinking, strong communication skills, and a great attitude toward continuous learning.",
     author: "Nasa Ganesh Reddy [Java]",
-    role: "Qspider Software training institute in Coimbatore, Tamil Nadu",
+    role: " Coimbatore, Tamil Nadu",
     avatar:
       "/Trainers/Ganesh_sir.jpg",
   },
@@ -21,7 +21,7 @@ const testimonials = [
     quote:
       "Karthick is a hardworking and attentive student with a good  understanding of manual testing concepts and strong attention  to detail.",
     author: "Sidharth[Manual Testing]",
-    role: "Qspider Software training institute in Coimbatore, Tamil Nadu",
+    role: " Coimbatore, Tamil Nadu",
     avatar:
       "/Trainers/Sidharth_sir.jpeg",
   },
@@ -29,7 +29,7 @@ const testimonials = [
     quote:
       "Karthick has a solid understanding of SQL queries and database concepts.  He shows strong analytical skills and a positive attitude toward learning.",
     author: "Sai Kiran [SQL]",
-    role: "Qspider Software training institute in Coimbatore, Tamil Nadu",
+    role: "Coimbatore, Tamil Nadu",
     avatar:
       "/Trainers/Sai_sir.jpeg",
   },
@@ -37,7 +37,7 @@ const testimonials = [
     quote:
       "Karthick has demonstrated strong interest in web development and  modern web technologies. He shows good creativity, logical thinking,  and dedication while building responsive and interactive web applications.",
     author: "Bobby perecharla [WebTech]",
-    role: "Qspider Software training institute in Coimbatore, Tamil Nadu",
+    role: " Coimbatore, Tamil Nadu",
     avatar:
       "/Trainers/Bobby_sir.jpeg",
   },
